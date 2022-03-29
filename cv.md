@@ -17,6 +17,7 @@
 Hi! I am 30 years old, I am a junior front-end developer. I like working with computers, programs, and websites, so I want to learn how to create interesting and convenient programs that will help people easily interact with their gadgets. In order to become a professional in my field, I spend a lot of time studying on the Internet, on special courses, participating in various small projects.
 
 *******
+
 ## Skills
 
 + HTML
