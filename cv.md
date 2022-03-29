@@ -37,7 +37,7 @@ Hi! I am 30 years old, I am a junior front-end developer. I like working with co
 ## Education
 
 + **Polotsk State University**
-  - Faculty of Civil Engineerin
+  - Faculty of Civil Engineering
   - Faculty of Finance and Economics
 + **Belstroycenter**
   - Supervisor in bilding
